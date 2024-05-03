@@ -208,6 +208,6 @@ By writing (`(Pixel)pt`), we are saying to the compiler ‘this is just a `Point
 
 The compiler cannot check it, but at runtime the program will crash if it turns out that the object pointed to by pt is in fact _not_ a `Pixel`.
 
-Next [Listing 53.54.55.56.DJW-InherAnimal](https://github.com/Java-PJATK/53.54.55.56.DJW-InnerAnimal) 
+Next [Listing 53.54.55.56.DJW-InnerAnimal](https://github.com/Java-PJATK/53.54.55.56.DJW-InnerAnimal) 
 
 
